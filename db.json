@@ -8,7 +8,7 @@
       "origin": "Paradise",
       "titan": "Yes",
       "Death": "Yes",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/6/64/Eren_Jaeger_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20210402042845&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_(Anime)_character_image.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "origin": "Paradise",
       "titan": "No",
       "Death": "No",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/f/f2/Mikasa_Ackerman_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20210222031259&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "origin": "Paradise",
       "titan": "Si",
       "Death": "No",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/9/97/Armin_Arlert_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20210402043101&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "origin": "Paradise",
       "titan": "No",
       "Death": "No",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/2/22/Levi_Ackerman_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20210125035215&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "origin": "Marley",
       "titan": "Si",
       "Death": "Si",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/8/89/Zeke_Jaeger_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20201214022823&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Zeke_Jaeger_%28Anime%29_character_image.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "origin": "Paradise",
       "titan": "No",
       "Death": "No",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/8/84/Historia_Reiss_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20210215041632&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/65/Historia_Reiss_%28Anime%29_character_image.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "origin": "Marley",
       "titan": "Si",
       "Death": "No",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/3/32/Annie_anime.png/revision/latest/scale-to-width-down/350?cb=20171207050515&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/66/Annie_Leonhart_%28Anime%29_character_image.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "origin": "Marley",
       "titan": "Si",
       "Death": "Si",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/e/eb/Ymir_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20170508052131&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/43/Ymir_%28Anime%29_character_image.png"
     },
     {
       "id": 9,
@@ -88,17 +88,17 @@
       "origin": "Marley",
       "titan": "Si",
       "Death": "No",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/f/f5/Reiner_Braun_854_%28Anime%29.png/revision/latest/scale-to-width-down/350?cb=20201214025457&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6d/Reiner_Braun_%28Anime%29_character_image.png"
     },
     {
       "id": 10,
       "name": "Bertolt Hoover",
-      "Age": "19",
+      "Age": "16",
       "alliance": "Guerreros",
       "origin": "Marley",
       "titan": "Si",
       "Death": "Si",
-      "img": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/0/07/Bertholdt_anime.png/revision/latest/scale-to-width-down/350?cb=20190514190434&path-prefix=es"
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png"
     }
   ],
   "profile": {
